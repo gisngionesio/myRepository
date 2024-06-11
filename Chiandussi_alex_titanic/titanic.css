@@ -1,0 +1,70 @@
+body {
+
+    font-family: Arial;
+
+}
+
+nav {
+
+ text-align: center;
+    
+}
+
+ul {
+
+list-style-type: none;
+margin: 0; 
+padding: 0;
+background-color: aquamarine;
+
+
+}
+
+li {
+
+font-size: 1.4rem;
+display: inline;
+border-right: 1px solid #bbb;
+border-left: 1px solid #bbb;
+padding-inline: 12px;
+
+
+}
+
+li a {
+
+text-align: center;
+color: black;
+
+}
+
+.title {
+    font-size: 24px;
+    text-align: center;
+}
+
+.contenuto {
+    font-size: 16px;
+    line-height: 1.6;
+}
+
+.passeggeri{
+
+    text-align: center;
+
+}
+
+.card {
+    border: 1px solid black;
+    padding: 10px;
+    margin: 10px;
+    background-color: #f9f9f9;
+}
+
+.card h4 {
+    font-weight: bold;
+}
+
+.card p {
+    margin: 5px 0;
+}
